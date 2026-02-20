@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    justify-content: center;
+    justify-items: center;
+}
+div{
+   
+    border-style: dashed;
+    width: auto;
+    height: auto;
+    min-width: 30%;
+    min-height: 40%;
+    max-width: 25%;
+    max-height:10% ;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 15%;
+    text-align: center;
+    padding: 3% 0 0 0;
+}
+p{
+    margin-top: 10%;
+}
